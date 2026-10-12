@@ -120,6 +120,8 @@ const cloudupupIOSData = {
   //   --------------------
   up助手教程图: `./img/upuptutorial.jpg`,
   //   --------------------
+  新建up助手教程图: `./img/manuallyimport.jpg`,
+  //   --------------------
   up助手转发图: `./img/share.jpg`,
   //   --------------------
   up助手导入教程图: `./img/download.jpg`,
@@ -140,7 +142,7 @@ const cloudupupIOSData = {
   //   --------------------
 };
 const cloudupupWinData = {
-  最新版更新upup: `新版cloudupup客户端下载:\n\n下载地址: https://upup.dolink.live/win/cloudupup.vortex.zip\n\n1. 安装时请务必关闭防火墙\n2. 安装时请选择>>为所有人的选项\n\n3. 请勿改动默认路径\n--------------------------------------------------------------\n教程视频：https://veed.io/view/10d79d12-99ec-4f0e-b5c4-dc62b5c604da\n--------------------------------------------------------------`,
+  最新版更新upup: `新版cloudupup客户端下载:\n\n下载地址: https://upup-down.fastgo.live/test/NewCloudUpup-windows-amd64.zip\n\n1. 安装时请务必关闭防火墙\n2. 安装时请选择>>为所有人的选项\n\n3. 请勿改动默认路径\n--------------------------------------------------------------\n教程视频：https://veed.io/view/10d79d12-99ec-4f0e-b5c4-dc62b5c604da\n--------------------------------------------------------------`,
   //   --------------------
   新版安装upup教程图: `./img/win_installupup.png`,
   //   --------------------
